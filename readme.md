@@ -19,5 +19,5 @@ conda env create -f highlighter.yml
 The segmented songs are in ./chorus and timestamp saved in ./chorus/chorus_time.csv
 
 ## To Be Solved
-Data in ./chorus/chorus_time.csv might be duplicated if not removed before excution.
+Data in ./chorus/chorus_time.csv might be duplicated if ./chorus/chorus_time.csv is not be removed before excution.
 
